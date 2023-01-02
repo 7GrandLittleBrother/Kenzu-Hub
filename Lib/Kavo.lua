@@ -114,8 +114,8 @@ local themeStyles = {
     },
     Gold = {
         SchemeColor = Color3.fromRGB(255, 215, 0),
-        Background = Color3.fromRGB(68, 68, 68),
-        Header = Color3.fromRGB(68, 68, 68),
+        Background = Color3.fromRGB(18, 18, 18),
+        Header = Color3.fromRGB(18, 18, 18),
         TextColor = Color3.fromRGB(255,255,255),
         ElementColor = Color3.fromRGB(20, 20, 20)
     },
